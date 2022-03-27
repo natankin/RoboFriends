@@ -10,3 +10,18 @@ h1{
   font-weight: 200;
   color:rgb(142, 216, 191);
 }
+
+.top {
+  margin: 30px 0;
+  font-weight: bold;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items:center;
+
+  .rating-words {
+    text-transform: uppercase;
+  }
+  .right {
+  }
+}
